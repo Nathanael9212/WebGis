@@ -1,0 +1,1340 @@
+{
+  "type": "FeatureCollection",
+  "name": "83_Rumah_Pompa_Surabaya_Update",
+  "crs": {
+    "type": "name",
+    "properties": {
+      "name": "urn:ogc:def:crs:OGC:1.3:CRS84"
+    }
+  },
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.74616605000006,
+          -7.278253554999935
+        ]
+      },
+      "properties": {
+        "id": 1,
+        "name": "P.A Flores",
+        "distance_to_old_match_m": 5.6,
+        "status": "Eksisting Lama"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.75021418400001,
+          -7.277476374999935
+        ]
+      },
+      "properties": {
+        "id": 2,
+        "name": "Rumah Pompa Update #2 (Baru)",
+        "distance_to_old_match_m": 449.7,
+        "status": "Pembangunan Baru (Update 2024-2026)"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.74819801700005,
+          -7.301949241999978
+        ]
+      },
+      "properties": {
+        "id": 3,
+        "name": "P.A Bratang Lapangan",
+        "distance_to_old_match_m": 14.9,
+        "status": "Eksisting Lama"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.78001246100007,
+          -7.209352580999962
+        ]
+      },
+      "properties": {
+        "id": 4,
+        "name": "P.A Jemblokan",
+        "distance_to_old_match_m": 5.8,
+        "status": "Eksisting Lama"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.72153417000004,
+          -7.228882572999964
+        ]
+      },
+      "properties": {
+        "id": 5,
+        "name": "P.A Ikan Mungsing",
+        "distance_to_old_match_m": 14.5,
+        "status": "Eksisting Lama"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.71955125200009,
+          -7.2312363599999685
+        ]
+      },
+      "properties": {
+        "id": 6,
+        "name": "P.A Gadukan",
+        "distance_to_old_match_m": 24.6,
+        "status": "Eksisting Lama"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.71488980900006,
+          -7.235821399999963
+        ]
+      },
+      "properties": {
+        "id": 7,
+        "name": "P.A Greges",
+        "distance_to_old_match_m": 10.4,
+        "status": "Eksisting Lama"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.71742621900012,
+          -7.243180522999978
+        ]
+      },
+      "properties": {
+        "id": 8,
+        "name": "P.A Dupak",
+        "distance_to_old_match_m": 2.9,
+        "status": "Eksisting Lama"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.71660388200007,
+          -7.248950055999956
+        ]
+      },
+      "properties": {
+        "id": 9,
+        "name": "P.A Asem Jaya",
+        "distance_to_old_match_m": 1.5,
+        "status": "Eksisting Lama"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.66607211500002,
+          -7.2222384449999595
+        ]
+      },
+      "properties": {
+        "id": 10,
+        "name": "P.A Kandangan",
+        "distance_to_old_match_m": 46.1,
+        "status": "Eksisting Lama"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.60021164900002,
+          -7.2141967079999745
+        ]
+      },
+      "properties": {
+        "id": 11,
+        "name": "P.A Sumber Rejo",
+        "distance_to_old_match_m": 13.7,
+        "status": "Eksisting Lama"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.67755574800003,
+          -7.229164110999932
+        ]
+      },
+      "properties": {
+        "id": 12,
+        "name": "P.A Balong 2",
+        "distance_to_old_match_m": 20.1,
+        "status": "Eksisting Lama"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.70882973100004,
+          -7.2233068969999294
+        ]
+      },
+      "properties": {
+        "id": 13,
+        "name": "P.A Bozem Moro Krembangan I",
+        "distance_to_old_match_m": 22.3,
+        "status": "Eksisting Lama"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.70882973100004,
+          -7.2233068969999294
+        ]
+      },
+      "properties": {
+        "id": 14,
+        "name": "P.A Bozem Moro Krembangan I",
+        "distance_to_old_match_m": 22.3,
+        "status": "Eksisting Lama"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.74411430700002,
+          -7.277960400999973
+        ]
+      },
+      "properties": {
+        "id": 15,
+        "name": "P.A Dinoyo",
+        "distance_to_old_match_m": 69.6,
+        "status": "Eksisting Lama"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.743197914,
+          -7.2744459889999575
+        ]
+      },
+      "properties": {
+        "id": 16,
+        "name": "P.A Keputran",
+        "distance_to_old_match_m": 10.1,
+        "status": "Eksisting Lama"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.74435028900007,
+          -7.26299445799998
+        ]
+      },
+      "properties": {
+        "id": 17,
+        "name": "P.A Grahadi",
+        "distance_to_old_match_m": 2.0,
+        "status": "Eksisting Lama"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.74208326200005,
+          -7.261194342999943
+        ]
+      },
+      "properties": {
+        "id": 18,
+        "name": "P.A Kenari",
+        "distance_to_old_match_m": 16.9,
+        "status": "Eksisting Lama"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.75675009700001,
+          -7.265204634999975
+        ]
+      },
+      "properties": {
+        "id": 19,
+        "name": "P.A Dharma Husada",
+        "distance_to_old_match_m": 36.9,
+        "status": "Eksisting Lama"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.764758056,
+          -7.2625114969999345
+        ]
+      },
+      "properties": {
+        "id": 20,
+        "name": "P.A Kali Kepiting",
+        "distance_to_old_match_m": 7.0,
+        "status": "Eksisting Lama"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.76939523600004,
+          -7.277173654999956
+        ]
+      },
+      "properties": {
+        "id": 21,
+        "name": "P.A Kalidami Screw",
+        "distance_to_old_match_m": 27.8,
+        "status": "Eksisting Lama"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.797251415,
+          -7.274620683999956
+        ]
+      },
+      "properties": {
+        "id": 22,
+        "name": "P.A Ring Road To ITS",
+        "distance_to_old_match_m": 22.3,
+        "status": "Eksisting Lama"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.80414137600008,
+          -7.274246005999942
+        ]
+      },
+      "properties": {
+        "id": 23,
+        "name": "P.A Boezem Kalidami I",
+        "distance_to_old_match_m": 8.2,
+        "status": "Eksisting Lama"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.80392169400011,
+          -7.27472458099993
+        ]
+      },
+      "properties": {
+        "id": 24,
+        "name": "P.A Boezem Kalidami II",
+        "distance_to_old_match_m": 7.5,
+        "status": "Eksisting Lama"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.80052744900001,
+          -7.307451146999938
+        ]
+      },
+      "properties": {
+        "id": 25,
+        "name": "P.A Semolowaru I",
+        "distance_to_old_match_m": 20.8,
+        "status": "Eksisting Lama"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.79078090500002,
+          -7.30700686299997
+        ]
+      },
+      "properties": {
+        "id": 26,
+        "name": "P.A Medokan Semampir",
+        "distance_to_old_match_m": 41.3,
+        "status": "Eksisting Lama"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.82327392700006,
+          -7.311701141999947
+        ]
+      },
+      "properties": {
+        "id": 27,
+        "name": "P.A Medokan Ayu Hilir",
+        "distance_to_old_match_m": 31.3,
+        "status": "Eksisting Lama"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.82327395100003,
+          -7.307485899999961
+        ]
+      },
+      "properties": {
+        "id": 28,
+        "name": "P.A Boezem Wonorejo",
+        "distance_to_old_match_m": 22.1,
+        "status": "Eksisting Lama"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.76962042500008,
+          -7.310412267999936
+        ]
+      },
+      "properties": {
+        "id": 29,
+        "name": "P.A Kali Rungkut",
+        "distance_to_old_match_m": 1.1,
+        "status": "Eksisting Lama"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.77218122500005,
+          -7.310183661999929
+        ]
+      },
+      "properties": {
+        "id": 30,
+        "name": "P.A Wonorejo",
+        "distance_to_old_match_m": 3.3,
+        "status": "Eksisting Lama"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.7112259490001,
+          -7.32752914799994
+        ]
+      },
+      "properties": {
+        "id": 31,
+        "name": "P.A Jambangan",
+        "distance_to_old_match_m": 7.3,
+        "status": "Eksisting Lama"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.70530344400004,
+          -7.322207996999964
+        ]
+      },
+      "properties": {
+        "id": 32,
+        "name": "P.A Kedurus",
+        "distance_to_old_match_m": 83.4,
+        "status": "Eksisting Lama"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.71960982900009,
+          -7.306643749999978
+        ]
+      },
+      "properties": {
+        "id": 33,
+        "name": "P.A Gunung Sari II",
+        "distance_to_old_match_m": 10.2,
+        "status": "Eksisting Lama"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.7198199290001,
+          -7.3092630839999515
+        ]
+      },
+      "properties": {
+        "id": 34,
+        "name": "Rumah Pompa Update #34 (Baru)",
+        "distance_to_old_match_m": 282.0,
+        "status": "Pembangunan Baru (Update 2024-2026)"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.72905438500004,
+          -7.300760582999942
+        ]
+      },
+      "properties": {
+        "id": 35,
+        "name": "P.A Gunung Sari I",
+        "distance_to_old_match_m": 23.5,
+        "status": "Eksisting Lama"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.75485244400011,
+          -7.303575381999963
+        ]
+      },
+      "properties": {
+        "id": 36,
+        "name": "P.A BRATANG",
+        "distance_to_old_match_m": 47.0,
+        "status": "Eksisting Lama"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.74961571600011,
+          -7.3034526309999706
+        ]
+      },
+      "properties": {
+        "id": 37,
+        "name": "P.A Jagir Kalimir",
+        "distance_to_old_match_m": 2.8,
+        "status": "Eksisting Lama"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.76081051300002,
+          -7.307616505999931
+        ]
+      },
+      "properties": {
+        "id": 38,
+        "name": "P.A JEMURSARI PRAPEN",
+        "distance_to_old_match_m": 4.1,
+        "status": "Eksisting Lama"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.74253866400011,
+          -7.290178969999943
+        ]
+      },
+      "properties": {
+        "id": 39,
+        "name": "P.A Darmo Kali",
+        "distance_to_old_match_m": 20.8,
+        "status": "Eksisting Lama"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.79769093200002,
+          -7.258029007999937
+        ]
+      },
+      "properties": {
+        "id": 40,
+        "name": "P.A Kalisari",
+        "distance_to_old_match_m": 4.6,
+        "status": "Eksisting Lama"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.75556388900009,
+          -7.286916666999957
+        ]
+      },
+      "properties": {
+        "id": 41,
+        "name": "Rumah Pompa Update #41 (Baru)",
+        "distance_to_old_match_m": 1414.0,
+        "status": "Pembangunan Baru (Update 2024-2026)"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.73704151600009,
+          -7.300051051999958
+        ]
+      },
+      "properties": {
+        "id": 42,
+        "name": "P.A SAWUNGGALING",
+        "distance_to_old_match_m": 13.8,
+        "status": "Eksisting Lama"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.73691992700003,
+          -7.251911652999979
+        ]
+      },
+      "properties": {
+        "id": 43,
+        "name": "P.A Pahlawan",
+        "distance_to_old_match_m": 4.0,
+        "status": "Eksisting Lama"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.74517263200005,
+          -7.27245245499995
+        ]
+      },
+      "properties": {
+        "id": 44,
+        "name": "P.A Karimun Jawa",
+        "distance_to_old_match_m": 13.3,
+        "status": "Eksisting Lama"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.73760057700008,
+          -7.21671035199995
+        ]
+      },
+      "properties": {
+        "id": 45,
+        "name": "Rumah Pompa Update #45 (Baru)",
+        "distance_to_old_match_m": 241.3,
+        "status": "Pembangunan Baru (Update 2024-2026)"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.68085366500009,
+          -7.256473998999979
+        ]
+      },
+      "properties": {
+        "id": 46,
+        "name": "P.A Balong 1",
+        "distance_to_old_match_m": 3.9,
+        "status": "Eksisting Lama"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.73104398500004,
+          -7.232341684999938
+        ]
+      },
+      "properties": {
+        "id": 47,
+        "name": "P.A Pesapen",
+        "distance_to_old_match_m": 5.1,
+        "status": "Eksisting Lama"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.70212752000009,
+          -7.313540293999949
+        ]
+      },
+      "properties": {
+        "id": 48,
+        "name": "P.A WIYUNG",
+        "distance_to_old_match_m": 12.3,
+        "status": "Eksisting Lama"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.71629768800005,
+          -7.323820505999947
+        ]
+      },
+      "properties": {
+        "id": 49,
+        "name": "P.A Kebonsari",
+        "distance_to_old_match_m": 4.2,
+        "status": "Eksisting Lama"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.72952119100012,
+          -7.347834011999964
+        ]
+      },
+      "properties": {
+        "id": 50,
+        "name": "P.A Korem",
+        "distance_to_old_match_m": 4.1,
+        "status": "Eksisting Lama"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.74361332400008,
+          -7.329302632999941
+        ]
+      },
+      "properties": {
+        "id": 51,
+        "name": "P.A Jemur Andayani",
+        "distance_to_old_match_m": 2.6,
+        "status": "Eksisting Lama"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.74736103600003,
+          -7.329598726999961
+        ]
+      },
+      "properties": {
+        "id": 52,
+        "name": "P.A Kutisari",
+        "distance_to_old_match_m": 1.0,
+        "status": "Eksisting Lama"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.79195628900004,
+          -7.332547204999969
+        ]
+      },
+      "properties": {
+        "id": 53,
+        "name": "P.A UPN",
+        "distance_to_old_match_m": 9.7,
+        "status": "Eksisting Lama"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.79215213700002,
+          -7.325374171999954
+        ]
+      },
+      "properties": {
+        "id": 54,
+        "name": "P.A Pandugo",
+        "distance_to_old_match_m": 1.5,
+        "status": "Eksisting Lama"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.8058872680001,
+          -7.331494642999928
+        ]
+      },
+      "properties": {
+        "id": 55,
+        "name": "P.A Kebon Agung",
+        "distance_to_old_match_m": 20.2,
+        "status": "Eksisting Lama"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.79737136200004,
+          -7.3448848279999766
+        ]
+      },
+      "properties": {
+        "id": 56,
+        "name": "P.A BP2IP",
+        "distance_to_old_match_m": 9.3,
+        "status": "Eksisting Lama"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.78449760100011,
+          -7.313112644999933
+        ]
+      },
+      "properties": {
+        "id": 57,
+        "name": "P.A Kedungasem",
+        "distance_to_old_match_m": 4.5,
+        "status": "Eksisting Lama"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.79631155100003,
+          -7.3094793869999535
+        ]
+      },
+      "properties": {
+        "id": 58,
+        "name": "P.A Wonorejo II",
+        "distance_to_old_match_m": 6.5,
+        "status": "Eksisting Lama"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.79053538500011,
+          -7.302893951999977
+        ]
+      },
+      "properties": {
+        "id": 59,
+        "name": "P.A Semolowaru II",
+        "distance_to_old_match_m": 7.8,
+        "status": "Eksisting Lama"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.78960463800001,
+          -7.290706831999955
+        ]
+      },
+      "properties": {
+        "id": 60,
+        "name": "P.A Araya Onkologi",
+        "distance_to_old_match_m": 4.8,
+        "status": "Eksisting Lama"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.80290962400011,
+          -7.284911318999946
+        ]
+      },
+      "properties": {
+        "id": 61,
+        "name": "P.A Kalibokor",
+        "distance_to_old_match_m": 21.8,
+        "status": "Eksisting Lama"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.78746072700005,
+          -7.250903623999932
+        ]
+      },
+      "properties": {
+        "id": 62,
+        "name": "P.A Kalijudan",
+        "distance_to_old_match_m": 7.9,
+        "status": "Eksisting Lama"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.80653041400001,
+          -7.255632523999964
+        ]
+      },
+      "properties": {
+        "id": 63,
+        "name": "P.A Kenpark",
+        "distance_to_old_match_m": 16.1,
+        "status": "Eksisting Lama"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.79749624700003,
+          -7.2406252999999765
+        ]
+      },
+      "properties": {
+        "id": 64,
+        "name": "P.A Kenjeran II",
+        "distance_to_old_match_m": 11.3,
+        "status": "Eksisting Lama"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.79432263600006,
+          -7.23299327999996
+        ]
+      },
+      "properties": {
+        "id": 65,
+        "name": "P.A Kenjeran I",
+        "distance_to_old_match_m": 22.2,
+        "status": "Eksisting Lama"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.7551570810001,
+          -7.237601853999934
+        ]
+      },
+      "properties": {
+        "id": 66,
+        "name": "Rumah Pompa Update #66 (Baru)",
+        "distance_to_old_match_m": 2228.8,
+        "status": "Pembangunan Baru (Update 2024-2026)"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.70455294700002,
+          -7.334310243999937
+        ]
+      },
+      "properties": {
+        "id": 67,
+        "name": "P.A KEBRAON",
+        "distance_to_old_match_m": 22.1,
+        "status": "Eksisting Lama"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.77193344300008,
+          -7.206279379999955
+        ]
+      },
+      "properties": {
+        "id": 68,
+        "name": "P.A Tambak Wedi",
+        "distance_to_old_match_m": 9.2,
+        "status": "Eksisting Lama"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.74318775500001,
+          -7.2553734809999355
+        ]
+      },
+      "properties": {
+        "id": 69,
+        "name": "P.A Undaan",
+        "distance_to_old_match_m": 53.4,
+        "status": "Eksisting Lama"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.73823820700011,
+          -7.255745841999953
+        ]
+      },
+      "properties": {
+        "id": 70,
+        "name": "P.A Siola",
+        "distance_to_old_match_m": 21.8,
+        "status": "Eksisting Lama"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.7223000570001,
+          -7.259025373999975
+        ]
+      },
+      "properties": {
+        "id": 71,
+        "name": "P.A Bukit Barisan",
+        "distance_to_old_match_m": 10.1,
+        "status": "Eksisting Lama"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.71802683800001,
+          -7.32245250099993
+        ]
+      },
+      "properties": {
+        "id": 72,
+        "name": "P.A AQUATIC",
+        "distance_to_old_match_m": 46.3,
+        "status": "Eksisting Lama"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.70537087100001,
+          -7.287477607999961
+        ]
+      },
+      "properties": {
+        "id": 73,
+        "name": "PA. Underpass",
+        "distance_to_old_match_m": 18.6,
+        "status": "Eksisting Lama"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.78641287800008,
+          -7.343135815999972
+        ]
+      },
+      "properties": {
+        "id": 74,
+        "name": "P.A MERR",
+        "distance_to_old_match_m": 25.2,
+        "status": "Eksisting Lama"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.76523014600002,
+          -7.255138233999958
+        ]
+      },
+      "properties": {
+        "id": 75,
+        "name": "P.A Gresikan",
+        "distance_to_old_match_m": 15.5,
+        "status": "Eksisting Lama"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.78918972600002,
+          -7.226288977999957
+        ]
+      },
+      "properties": {
+        "id": 76,
+        "name": "P.A Bulak",
+        "distance_to_old_match_m": 15.0,
+        "status": "Eksisting Lama"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.77751397200007,
+          -7.34009918199996
+        ]
+      },
+      "properties": {
+        "id": 77,
+        "name": "Rumah Pompa Update #77 (Baru)",
+        "distance_to_old_match_m": 1057.3,
+        "status": "Pembangunan Baru (Update 2024-2026)"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.71758286400006,
+          -7.313763990999973
+        ]
+      },
+      "properties": {
+        "id": 78,
+        "name": "Rumah Pompa Update #78 (Baru)",
+        "distance_to_old_match_m": 813.0,
+        "status": "Pembangunan Baru (Update 2024-2026)"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.7210540530001,
+          -7.323412572999928
+        ]
+      },
+      "properties": {
+        "id": 79,
+        "name": "Rumah Pompa Update #79 (Baru)",
+        "distance_to_old_match_m": 341.0,
+        "status": "Pembangunan Baru (Update 2024-2026)"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.65755223000008,
+          -7.259327669999948
+        ]
+      },
+      "properties": {
+        "id": 80,
+        "name": "Rumah Pompa Update #80 (Baru)",
+        "distance_to_old_match_m": 2588.6,
+        "status": "Pembangunan Baru (Update 2024-2026)"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.74843519600006,
+          -7.317364138999949
+        ]
+      },
+      "properties": {
+        "id": 81,
+        "name": "Rumah Pompa Update #81 (Baru)",
+        "distance_to_old_match_m": 1365.9,
+        "status": "Pembangunan Baru (Update 2024-2026)"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.73091334000003,
+          -7.329832255999975
+        ]
+      },
+      "properties": {
+        "id": 82,
+        "name": "Rumah Pompa Update #82 (Baru)",
+        "distance_to_old_match_m": 1400.1,
+        "status": "Pembangunan Baru (Update 2024-2026)"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.72010810400002,
+          -7.3430053799999655
+        ]
+      },
+      "properties": {
+        "id": 83,
+        "name": "Rumah Pompa Update #83 (Baru)",
+        "distance_to_old_match_m": 1166.2,
+        "status": "Pembangunan Baru (Update 2024-2026)"
+      }
+    }
+  ]
+}

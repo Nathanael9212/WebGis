@@ -1,0 +1,10 @@
+id_rayon,nama_rayon,k_terpilih,jumlah_non_noise,jumlah_noise_dikecualikan,silhouette_score,kategori_silhouette,davies_bouldin_index,sil_min,sil_median,sil_max,jumlah_sil_negatif,persen_sil_negatif,status_validasi
+RYN-01,Rayon Benowo,5,1147,28,0.5273,Struktur Wajar (0.51-0.70),0.6217,-0.1856,0.5608,0.824,20,1.74,Valid
+RYN-02,Rayon Tandes,4,2615,22,0.4836,Struktur Lemah (0.26-0.50),0.6966,-0.0287,0.5406,0.7328,5,0.19,Valid
+RYN-03,Rayon Wiyung,5,1107,16,0.4864,Struktur Lemah (0.26-0.50),0.5958,-0.0209,0.5054,0.9896,3,0.27,Valid
+RYN-04,Rayon Jambangan,5,2544,12,0.4439,Struktur Lemah (0.26-0.50),0.8058,-0.089,0.4769,0.7473,42,1.65,Valid
+RYN-05,Rayon Rungkut,4,2107,13,0.5017,Struktur Wajar (0.51-0.70),0.7494,-0.1646,0.5931,0.7472,66,3.13,Valid
+RYN-06,Rayon Genteng,4,3691,27,0.3987,Struktur Lemah (0.26-0.50),0.8414,-0.0678,0.4314,0.6815,50,1.35,Valid
+RYN-07,Rayon Gubeng,4,7897,46,0.3974,Struktur Lemah (0.26-0.50),0.8944,-0.0518,0.4443,0.6461,78,0.99,Valid
+MEAN,Rata-rata 7 Rayon (Unweighted),31,21108,164,0.4627,Struktur Lemah (0.26-0.50),0.7436,-0.1856,0.5075,0.9896,264,1.25,Ringkasan Unweighted
+W-MEAN,Rata-rata Tertimbang Jumlah Titik,31,21108,164,0.436,Struktur Lemah (0.26-0.50),0.805,,,,264,1.25,Ringkasan Weighted

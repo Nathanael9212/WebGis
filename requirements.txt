@@ -1,0 +1,25 @@
+# Dependensi Utama Proyek Skripsi
+# Penentuan Lokasi Rumah Pompa Air Pengendali Banjir Menggunakan Klasterisasi DBSCAN dan K-Means (Kota Surabaya)
+# Lingkungan teruji: Python 3.12.13 (.venv)
+
+# Pengolahan data tabular & numerik
+pandas==2.3.3
+numpy==2.5.5
+
+# Pemrosesan data spasial & proyeksi koordinat
+geopandas==1.2.0
+shapely==2.2.0
+pyproj==3.8.0
+
+# Machine Learning, clustering, evaluasi, & deteksi knee/elbow
+scikit-learn==1.9.1
+kneed==0.9.0
+
+# Visualisasi & prototipe WebGIS
+matplotlib==3.11.2
+folium==1.0.0
+streamlit==1.67.0
+
+# Lingkungan eksplorasi interaktif (Notebook)
+jupyter==1.1.1
+ipykernel==7.4.0

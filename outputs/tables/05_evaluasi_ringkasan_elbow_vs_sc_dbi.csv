@@ -1,0 +1,8 @@
+id_rayon,nama_rayon,k_elbow,sc_pada_k_elbow,dbi_pada_k_elbow,k_terbaik_sc,sc_maks_rentang,selisih_sc_vs_maks,k_terbaik_dbi,dbi_min_rentang,selisih_dbi_vs_min
+RYN-01,Rayon Benowo,5,0.5273,0.6217,2,0.7048,-0.1775,2,0.4176,0.2041
+RYN-02,Rayon Tandes,4,0.4836,0.6966,2,0.6267,-0.1431,2,0.5594,0.1372
+RYN-03,Rayon Wiyung,5,0.4864,0.5958,2,0.6437,-0.1573,2,0.4538,0.142
+RYN-04,Rayon Jambangan,5,0.4439,0.8058,2,0.5938,-0.1499,2,0.5988,0.207
+RYN-05,Rayon Rungkut,4,0.5017,0.7494,5,0.5226,-0.0209,8,0.7289,0.0205
+RYN-06,Rayon Genteng,4,0.3987,0.8414,2,0.5331,-0.1344,2,0.6599,0.1815
+RYN-07,Rayon Gubeng,4,0.3974,0.8944,2,0.4263,-0.0289,10,0.77,0.1244

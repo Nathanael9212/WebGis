@@ -1,0 +1,9 @@
+id_rayon,nama_rayon,jumlah_centroid,jumlah_pompa_aktif_di_rayon,jarak_min_m,centroid_terdekat,jarak_median_m,jarak_rerata_m,jarak_max_m,centroid_terjauh,jumlah_lintas_rayon,jumlah_tie_koordinat
+RYN-01,Rayon Benowo,5,2,1307.51,RYN-01-C01,3514.88,3603.33,5365.84,RYN-01-C03,2,0
+RYN-02,Rayon Tandes,4,5,550.35,RYN-02-C04,1409.22,1387.13,2179.72,RYN-02-C01,2,0
+RYN-03,Rayon Wiyung,5,5,155.0,RYN-03-C04,1183.06,1972.72,6408.19,RYN-03-C01,1,0
+RYN-04,Rayon Jambangan,5,11,447.58,RYN-04-C03,799.83,747.17,1167.55,RYN-04-C02,0,0
+RYN-05,Rayon Rungkut,4,15,468.44,RYN-05-C03,936.07,982.75,1590.41,RYN-05-C02,0,0
+RYN-06,Rayon Genteng,4,14,263.06,RYN-06-C02,683.08,676.74,1077.74,RYN-06-C03,0,0
+RYN-07,Rayon Gubeng,4,19,566.52,RYN-07-C02,1250.89,1318.09,2204.06,RYN-07-C03,0,0
+ALL,Seluruh 7 Rayon (31 Centroid),31,71,155.0,RYN-03-C04,1077.74,1583.06,6408.19,RYN-03-C01,5,0

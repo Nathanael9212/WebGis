@@ -1,0 +1,9 @@
+id_rayon,nama_rayon,luas_utm49s_km2,sebelum_pip_terdekat,dikeluarkan_luar_poligon,setelah_pip_ketat,catatan_zona_overlap,dihapus_duplikat_tipe_a,dihapus_duplikat_tipe_b,total_dihapus_duplikat,sesudah_preprocessing_siap_cluster,pompa_aktif,pompa_pengembangan
+RYN-01,Rayon Benowo,48.64,1175,0,1175,78,0,0,0,1175,2,0
+RYN-02,Rayon Tandes,51.38,2647,4,2643,3,3,3,6,2637,5,1
+RYN-03,Rayon Wiyung,55.88,1123,0,1123,6,0,0,0,1123,5,0
+RYN-04,Rayon Jambangan,31.25,2607,50,2557,0,0,1,1,2556,11,6
+RYN-05,Rayon Rungkut,56.03,2120,0,2120,0,0,0,0,2120,15,1
+RYN-06,Rayon Genteng,27.95,3729,3,3726,0,8,0,8,3718,14,1
+RYN-07,Rayon Gubeng,69.86,8066,8,8058,0,92,23,115,7943,19,3
+TOTAL,Seluruh Kota Surabaya (7 Rayon),340.99,21467,65,21402,87,103,27,130,21272,71,12

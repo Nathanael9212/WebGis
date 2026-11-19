@@ -1,0 +1,8 @@
+id_rayon,nama_rayon,luas_km2,titik_dalam_poligon,titik_luar_poligon_terdekat,total_jika_gabung,duplikat_koordinat_berlebih,kepadatan_titik_per_km2,pompa_aktif,pompa_pengembangan,total_pompa
+RYN-01,Rayon Benowo,48.64,1097,0,1097,0,22.55,2,0,2
+RYN-02,Rayon Tandes,51.38,2669,4,2673,6,51.95,5,1,6
+RYN-03,Rayon Wiyung,55.88,1175,0,1175,0,21.03,5,0,5
+RYN-04,Rayon Jambangan,31.25,2557,50,2607,1,81.82,11,6,17
+RYN-05,Rayon Rungkut,56.03,2120,0,2120,0,37.84,15,1,16
+RYN-06,Rayon Genteng,27.95,3726,3,3729,8,133.31,14,1,15
+RYN-07,Rayon Gubeng,69.86,8058,8,8066,115,115.34,19,3,22

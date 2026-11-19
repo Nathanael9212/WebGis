@@ -1,0 +1,1838 @@
+{
+  "type": "FeatureCollection",
+  "name": "83_Rumah_Pompa_Eksisting_Surabaya_Bab3",
+  "crs": {
+    "type": "name",
+    "properties": {
+      "name": "urn:ogc:def:crs:OGC:1.3:CRS84"
+    }
+  },
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.666072,
+          -7.222238
+        ]
+      },
+      "properties": {
+        "no": 1,
+        "id_pompa": "PMP-010",
+        "name": "P.A Kandangan",
+        "nama_stasiun_pompa": "P.A Kandangan",
+        "rayon_pematusan": "Rayon Benowo",
+        "longitude": 112.666072,
+        "latitude": -7.222238,
+        "utm_x": 683956.21,
+        "utm_y": 9201347.01,
+        "status_fasilitas": "Operasional Aktif"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.600212,
+          -7.214197
+        ]
+      },
+      "properties": {
+        "no": 2,
+        "id_pompa": "PMP-011",
+        "name": "P.A Sumber Rejo",
+        "nama_stasiun_pompa": "P.A Sumber Rejo",
+        "rayon_pematusan": "Rayon Benowo",
+        "longitude": 112.600212,
+        "latitude": -7.214197,
+        "utm_x": 676685.6,
+        "utm_y": 9202262.42,
+        "status_fasilitas": "Operasional Aktif"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.721534,
+          -7.228883
+        ]
+      },
+      "properties": {
+        "no": 3,
+        "id_pompa": "PMP-005",
+        "name": "P.A Ikan Mungsing",
+        "nama_stasiun_pompa": "P.A Ikan Mungsing",
+        "rayon_pematusan": "Rayon Genteng",
+        "longitude": 112.721534,
+        "latitude": -7.228883,
+        "utm_x": 690078.94,
+        "utm_y": 9200589.42,
+        "status_fasilitas": "Operasional Aktif"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.719551,
+          -7.231236
+        ]
+      },
+      "properties": {
+        "no": 4,
+        "id_pompa": "PMP-006",
+        "name": "P.A Gadukan",
+        "nama_stasiun_pompa": "P.A Gadukan",
+        "rayon_pematusan": "Rayon Genteng",
+        "longitude": 112.719551,
+        "latitude": -7.231236,
+        "utm_x": 689858.96,
+        "utm_y": 9200329.93,
+        "status_fasilitas": "Operasional Aktif"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.71489,
+          -7.235821
+        ]
+      },
+      "properties": {
+        "no": 5,
+        "id_pompa": "PMP-007",
+        "name": "P.A Greges",
+        "nama_stasiun_pompa": "P.A Greges",
+        "rayon_pematusan": "Rayon Genteng",
+        "longitude": 112.71489,
+        "latitude": -7.235821,
+        "utm_x": 689342.22,
+        "utm_y": 9199824.79,
+        "status_fasilitas": "Operasional Aktif"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.717426,
+          -7.243181
+        ]
+      },
+      "properties": {
+        "no": 6,
+        "id_pompa": "PMP-008",
+        "name": "P.A Dupak",
+        "nama_stasiun_pompa": "P.A Dupak",
+        "rayon_pematusan": "Rayon Genteng",
+        "longitude": 112.717426,
+        "latitude": -7.243181,
+        "utm_x": 689619.27,
+        "utm_y": 9199009.84,
+        "status_fasilitas": "Operasional Aktif"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.716604,
+          -7.24895
+        ]
+      },
+      "properties": {
+        "no": 7,
+        "id_pompa": "PMP-009",
+        "name": "P.A Asem Jaya",
+        "nama_stasiun_pompa": "P.A Asem Jaya",
+        "rayon_pematusan": "Rayon Genteng",
+        "longitude": 112.716604,
+        "latitude": -7.24895,
+        "utm_x": 689526.04,
+        "utm_y": 9198372.1,
+        "status_fasilitas": "Operasional Aktif"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.744114,
+          -7.27796
+        ]
+      },
+      "properties": {
+        "no": 8,
+        "id_pompa": "PMP-015",
+        "name": "P.A Dinoyo",
+        "nama_stasiun_pompa": "P.A Dinoyo",
+        "rayon_pematusan": "Rayon Genteng",
+        "longitude": 112.744114,
+        "latitude": -7.27796,
+        "utm_x": 692551.95,
+        "utm_y": 9195152.04,
+        "status_fasilitas": "Operasional Aktif"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.743198,
+          -7.274446
+        ]
+      },
+      "properties": {
+        "no": 9,
+        "id_pompa": "PMP-016",
+        "name": "P.A Keputran",
+        "nama_stasiun_pompa": "P.A Keputran",
+        "rayon_pematusan": "Rayon Genteng",
+        "longitude": 112.743198,
+        "latitude": -7.274446,
+        "utm_x": 692452.25,
+        "utm_y": 9195541.11,
+        "status_fasilitas": "Operasional Aktif"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.74435,
+          -7.262994
+        ]
+      },
+      "properties": {
+        "no": 10,
+        "id_pompa": "PMP-017",
+        "name": "P.A Grahadi",
+        "nama_stasiun_pompa": "P.A Grahadi",
+        "rayon_pematusan": "Rayon Genteng",
+        "longitude": 112.74435,
+        "latitude": -7.262994,
+        "utm_x": 692584.39,
+        "utm_y": 9196807.14,
+        "status_fasilitas": "Operasional Aktif"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.742083,
+          -7.261194
+        ]
+      },
+      "properties": {
+        "no": 11,
+        "id_pompa": "PMP-018",
+        "name": "P.A Kenari",
+        "nama_stasiun_pompa": "P.A Kenari",
+        "rayon_pematusan": "Rayon Genteng",
+        "longitude": 112.742083,
+        "latitude": -7.261194,
+        "utm_x": 692334.79,
+        "utm_y": 9197007.19,
+        "status_fasilitas": "Operasional Aktif"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.742539,
+          -7.290179
+        ]
+      },
+      "properties": {
+        "no": 12,
+        "id_pompa": "PMP-039",
+        "name": "P.A Darmo Kali",
+        "nama_stasiun_pompa": "P.A Darmo Kali",
+        "rayon_pematusan": "Rayon Genteng",
+        "longitude": 112.742539,
+        "latitude": -7.290179,
+        "utm_x": 692372.73,
+        "utm_y": 9193801.36,
+        "status_fasilitas": "Operasional Aktif"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.73692,
+          -7.251912
+        ]
+      },
+      "properties": {
+        "no": 13,
+        "id_pompa": "PMP-043",
+        "name": "P.A Pahlawan",
+        "nama_stasiun_pompa": "P.A Pahlawan",
+        "rayon_pematusan": "Rayon Genteng",
+        "longitude": 112.73692,
+        "latitude": -7.251912,
+        "utm_x": 691768.49,
+        "utm_y": 9198036.02,
+        "status_fasilitas": "Operasional Aktif"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.737601,
+          -7.21671
+        ]
+      },
+      "properties": {
+        "no": 14,
+        "id_pompa": "PMP-045",
+        "name": "Rumah Pompa Update #45 (Baru)",
+        "nama_stasiun_pompa": "Rumah Pompa Update #45 (Baru)",
+        "rayon_pematusan": "Rayon Genteng",
+        "longitude": 112.737601,
+        "latitude": -7.21671,
+        "utm_x": 691858.54,
+        "utm_y": 9201928.9,
+        "status_fasilitas": "Pengembangan Baru"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.731044,
+          -7.232342
+        ]
+      },
+      "properties": {
+        "no": 15,
+        "id_pompa": "PMP-047",
+        "name": "P.A Pesapen",
+        "nama_stasiun_pompa": "P.A Pesapen",
+        "rayon_pematusan": "Rayon Genteng",
+        "longitude": 112.731044,
+        "latitude": -7.232342,
+        "utm_x": 691127.8,
+        "utm_y": 9200202.87,
+        "status_fasilitas": "Operasional Aktif"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.738238,
+          -7.255746
+        ]
+      },
+      "properties": {
+        "no": 16,
+        "id_pompa": "PMP-070",
+        "name": "P.A Siola",
+        "nama_stasiun_pompa": "P.A Siola",
+        "rayon_pematusan": "Rayon Genteng",
+        "longitude": 112.738238,
+        "latitude": -7.255746,
+        "utm_x": 691912.46,
+        "utm_y": 9197611.41,
+        "status_fasilitas": "Operasional Aktif"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.7223,
+          -7.259025
+        ]
+      },
+      "properties": {
+        "no": 17,
+        "id_pompa": "PMP-071",
+        "name": "P.A Bukit Barisan",
+        "nama_stasiun_pompa": "P.A Bukit Barisan",
+        "rayon_pematusan": "Rayon Genteng",
+        "longitude": 112.7223,
+        "latitude": -7.259025,
+        "utm_x": 690150.89,
+        "utm_y": 9197255.42,
+        "status_fasilitas": "Operasional Aktif"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.746166,
+          -7.278254
+        ]
+      },
+      "properties": {
+        "no": 18,
+        "id_pompa": "PMP-001",
+        "name": "P.A Flores",
+        "nama_stasiun_pompa": "P.A Flores",
+        "rayon_pematusan": "Rayon Gubeng",
+        "longitude": 112.746166,
+        "latitude": -7.278254,
+        "utm_x": 692778.41,
+        "utm_y": 9195118.74,
+        "status_fasilitas": "Operasional Aktif"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.750214,
+          -7.277476
+        ]
+      },
+      "properties": {
+        "no": 19,
+        "id_pompa": "PMP-002",
+        "name": "Rumah Pompa Update #2 (Baru)",
+        "nama_stasiun_pompa": "Rumah Pompa Update #2 (Baru)",
+        "rayon_pematusan": "Rayon Gubeng",
+        "longitude": 112.750214,
+        "latitude": -7.277476,
+        "utm_x": 693225.79,
+        "utm_y": 9195202.97,
+        "status_fasilitas": "Pengembangan Baru"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.780012,
+          -7.209353
+        ]
+      },
+      "properties": {
+        "no": 20,
+        "id_pompa": "PMP-004",
+        "name": "P.A Jemblokan",
+        "nama_stasiun_pompa": "P.A Jemblokan",
+        "rayon_pematusan": "Rayon Gubeng",
+        "longitude": 112.780012,
+        "latitude": -7.209353,
+        "utm_x": 696546.11,
+        "utm_y": 9202724.59,
+        "status_fasilitas": "Operasional Aktif"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.75675,
+          -7.265205
+        ]
+      },
+      "properties": {
+        "no": 21,
+        "id_pompa": "PMP-019",
+        "name": "P.A Dharma Husada",
+        "nama_stasiun_pompa": "P.A Dharma Husada",
+        "rayon_pematusan": "Rayon Gubeng",
+        "longitude": 112.75675,
+        "latitude": -7.265205,
+        "utm_x": 693952.86,
+        "utm_y": 9196557.4,
+        "status_fasilitas": "Operasional Aktif"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.764758,
+          -7.262511
+        ]
+      },
+      "properties": {
+        "no": 22,
+        "id_pompa": "PMP-020",
+        "name": "P.A Kali Kepiting",
+        "nama_stasiun_pompa": "P.A Kali Kepiting",
+        "rayon_pematusan": "Rayon Gubeng",
+        "longitude": 112.764758,
+        "latitude": -7.262511,
+        "utm_x": 694838.4,
+        "utm_y": 9196851.82,
+        "status_fasilitas": "Operasional Aktif"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.769395,
+          -7.277174
+        ]
+      },
+      "properties": {
+        "no": 23,
+        "id_pompa": "PMP-021",
+        "name": "P.A Kalidami Screw",
+        "nama_stasiun_pompa": "P.A Kalidami Screw",
+        "rayon_pematusan": "Rayon Gubeng",
+        "longitude": 112.769395,
+        "latitude": -7.277174,
+        "utm_x": 695344.19,
+        "utm_y": 9195228.2,
+        "status_fasilitas": "Operasional Aktif"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.797251,
+          -7.274621
+        ]
+      },
+      "properties": {
+        "no": 24,
+        "id_pompa": "PMP-022",
+        "name": "P.A Ring Road To ITS",
+        "nama_stasiun_pompa": "P.A Ring Road To ITS",
+        "rayon_pematusan": "Rayon Gubeng",
+        "longitude": 112.797251,
+        "latitude": -7.274621,
+        "utm_x": 698421.66,
+        "utm_y": 9195498.43,
+        "status_fasilitas": "Operasional Aktif"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.804141,
+          -7.274246
+        ]
+      },
+      "properties": {
+        "no": 25,
+        "id_pompa": "PMP-023",
+        "name": "P.A Boezem Kalidami I",
+        "nama_stasiun_pompa": "P.A Boezem Kalidami I",
+        "rayon_pematusan": "Rayon Gubeng",
+        "longitude": 112.804141,
+        "latitude": -7.274246,
+        "utm_x": 699182.74,
+        "utm_y": 9195536.84,
+        "status_fasilitas": "Operasional Aktif"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.803922,
+          -7.274725
+        ]
+      },
+      "properties": {
+        "no": 26,
+        "id_pompa": "PMP-024",
+        "name": "P.A Boezem Kalidami II",
+        "nama_stasiun_pompa": "P.A Boezem Kalidami II",
+        "rayon_pematusan": "Rayon Gubeng",
+        "longitude": 112.803922,
+        "latitude": -7.274725,
+        "utm_x": 699158.27,
+        "utm_y": 9195484.01,
+        "status_fasilitas": "Operasional Aktif"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.797691,
+          -7.258029
+        ]
+      },
+      "properties": {
+        "no": 27,
+        "id_pompa": "PMP-040",
+        "name": "P.A Kalisari",
+        "nama_stasiun_pompa": "P.A Kalisari",
+        "rayon_pematusan": "Rayon Gubeng",
+        "longitude": 112.797691,
+        "latitude": -7.258029,
+        "utm_x": 698477.48,
+        "utm_y": 9197333.29,
+        "status_fasilitas": "Operasional Aktif"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.755564,
+          -7.286917
+        ]
+      },
+      "properties": {
+        "no": 28,
+        "id_pompa": "PMP-041",
+        "name": "Rumah Pompa Update #41 (Baru)",
+        "nama_stasiun_pompa": "Rumah Pompa Update #41 (Baru)",
+        "rayon_pematusan": "Rayon Gubeng",
+        "longitude": 112.755564,
+        "latitude": -7.286917,
+        "utm_x": 693812.53,
+        "utm_y": 9194156.59,
+        "status_fasilitas": "Pengembangan Baru"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.745173,
+          -7.272452
+        ]
+      },
+      "properties": {
+        "no": 29,
+        "id_pompa": "PMP-044",
+        "name": "P.A Karimun Jawa",
+        "nama_stasiun_pompa": "P.A Karimun Jawa",
+        "rayon_pematusan": "Rayon Gubeng",
+        "longitude": 112.745173,
+        "latitude": -7.272452,
+        "utm_x": 692671.18,
+        "utm_y": 9195760.75,
+        "status_fasilitas": "Operasional Aktif"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.80291,
+          -7.284911
+        ]
+      },
+      "properties": {
+        "no": 30,
+        "id_pompa": "PMP-061",
+        "name": "P.A Kalibokor",
+        "nama_stasiun_pompa": "P.A Kalibokor",
+        "rayon_pematusan": "Rayon Gubeng",
+        "longitude": 112.80291,
+        "latitude": -7.284911,
+        "utm_x": 699042.0,
+        "utm_y": 9194357.79,
+        "status_fasilitas": "Operasional Aktif"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.787461,
+          -7.250904
+        ]
+      },
+      "properties": {
+        "no": 31,
+        "id_pompa": "PMP-062",
+        "name": "P.A Kalijudan",
+        "nama_stasiun_pompa": "P.A Kalijudan",
+        "rayon_pematusan": "Rayon Gubeng",
+        "longitude": 112.787461,
+        "latitude": -7.250904,
+        "utm_x": 697350.74,
+        "utm_y": 9198125.83,
+        "status_fasilitas": "Operasional Aktif"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.80653,
+          -7.255633
+        ]
+      },
+      "properties": {
+        "no": 32,
+        "id_pompa": "PMP-063",
+        "name": "P.A Kenpark",
+        "nama_stasiun_pompa": "P.A Kenpark",
+        "rayon_pematusan": "Rayon Gubeng",
+        "longitude": 112.80653,
+        "latitude": -7.255633,
+        "utm_x": 699454.79,
+        "utm_y": 9197594.46,
+        "status_fasilitas": "Operasional Aktif"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.797496,
+          -7.240625
+        ]
+      },
+      "properties": {
+        "no": 33,
+        "id_pompa": "PMP-064",
+        "name": "P.A Kenjeran II",
+        "nama_stasiun_pompa": "P.A Kenjeran II",
+        "rayon_pematusan": "Rayon Gubeng",
+        "longitude": 112.797496,
+        "latitude": -7.240625,
+        "utm_x": 698463.6,
+        "utm_y": 9199258.24,
+        "status_fasilitas": "Operasional Aktif"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.794323,
+          -7.232993
+        ]
+      },
+      "properties": {
+        "no": 34,
+        "id_pompa": "PMP-065",
+        "name": "P.A Kenjeran I",
+        "nama_stasiun_pompa": "P.A Kenjeran I",
+        "rayon_pematusan": "Rayon Gubeng",
+        "longitude": 112.794323,
+        "latitude": -7.232993,
+        "utm_x": 698116.42,
+        "utm_y": 9200103.73,
+        "status_fasilitas": "Operasional Aktif"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.755157,
+          -7.237602
+        ]
+      },
+      "properties": {
+        "no": 35,
+        "id_pompa": "PMP-066",
+        "name": "Rumah Pompa Update #66 (Baru)",
+        "nama_stasiun_pompa": "Rumah Pompa Update #66 (Baru)",
+        "rayon_pematusan": "Rayon Gubeng",
+        "longitude": 112.755157,
+        "latitude": -7.237602,
+        "utm_x": 693788.73,
+        "utm_y": 9199610.91,
+        "status_fasilitas": "Pengembangan Baru"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.771933,
+          -7.206279
+        ]
+      },
+      "properties": {
+        "no": 36,
+        "id_pompa": "PMP-068",
+        "name": "P.A Tambak Wedi",
+        "nama_stasiun_pompa": "P.A Tambak Wedi",
+        "rayon_pematusan": "Rayon Gubeng",
+        "longitude": 112.771933,
+        "latitude": -7.206279,
+        "utm_x": 695655.08,
+        "utm_y": 9203067.96,
+        "status_fasilitas": "Operasional Aktif"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.743188,
+          -7.255373
+        ]
+      },
+      "properties": {
+        "no": 37,
+        "id_pompa": "PMP-069",
+        "name": "P.A Undaan",
+        "nama_stasiun_pompa": "P.A Undaan",
+        "rayon_pematusan": "Rayon Gubeng",
+        "longitude": 112.743188,
+        "latitude": -7.255373,
+        "utm_x": 692459.24,
+        "utm_y": 9197650.49,
+        "status_fasilitas": "Operasional Aktif"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.76523,
+          -7.255138
+        ]
+      },
+      "properties": {
+        "no": 38,
+        "id_pompa": "PMP-075",
+        "name": "P.A Gresikan",
+        "nama_stasiun_pompa": "P.A Gresikan",
+        "rayon_pematusan": "Rayon Gubeng",
+        "longitude": 112.76523,
+        "latitude": -7.255138,
+        "utm_x": 694893.72,
+        "utm_y": 9197667.09,
+        "status_fasilitas": "Operasional Aktif"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.78919,
+          -7.226289
+        ]
+      },
+      "properties": {
+        "no": 39,
+        "id_pompa": "PMP-076",
+        "name": "P.A Bulak",
+        "nama_stasiun_pompa": "P.A Bulak",
+        "rayon_pematusan": "Rayon Gubeng",
+        "longitude": 112.78919,
+        "latitude": -7.226289,
+        "utm_x": 697552.41,
+        "utm_y": 9200847.46,
+        "status_fasilitas": "Operasional Aktif"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.748198,
+          -7.301949
+        ]
+      },
+      "properties": {
+        "no": 40,
+        "id_pompa": "PMP-003",
+        "name": "P.A Bratang Lapangan",
+        "nama_stasiun_pompa": "P.A Bratang Lapangan",
+        "rayon_pematusan": "Rayon Jambangan",
+        "longitude": 112.748198,
+        "latitude": -7.301949,
+        "utm_x": 692992.66,
+        "utm_y": 9192497.18,
+        "status_fasilitas": "Operasional Aktif"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.711226,
+          -7.327529
+        ]
+      },
+      "properties": {
+        "no": 41,
+        "id_pompa": "PMP-031",
+        "name": "P.A Jambangan",
+        "nama_stasiun_pompa": "P.A Jambangan",
+        "rayon_pematusan": "Rayon Jambangan",
+        "longitude": 112.711226,
+        "latitude": -7.327529,
+        "utm_x": 688899.16,
+        "utm_y": 9189683.81,
+        "status_fasilitas": "Operasional Aktif"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.71982,
+          -7.309263
+        ]
+      },
+      "properties": {
+        "no": 42,
+        "id_pompa": "PMP-034",
+        "name": "Rumah Pompa Update #34 (Baru)",
+        "nama_stasiun_pompa": "Rumah Pompa Update #34 (Baru)",
+        "rayon_pematusan": "Rayon Jambangan",
+        "longitude": 112.71982,
+        "latitude": -7.309263,
+        "utm_x": 689855.84,
+        "utm_y": 9191700.35,
+        "status_fasilitas": "Pengembangan Baru"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.754852,
+          -7.303575
+        ]
+      },
+      "properties": {
+        "no": 43,
+        "id_pompa": "PMP-036",
+        "name": "P.A BRATANG",
+        "nama_stasiun_pompa": "P.A BRATANG",
+        "rayon_pematusan": "Rayon Jambangan",
+        "longitude": 112.754852,
+        "latitude": -7.303575,
+        "utm_x": 693726.8,
+        "utm_y": 9192314.47,
+        "status_fasilitas": "Operasional Aktif"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.749616,
+          -7.303453
+        ]
+      },
+      "properties": {
+        "no": 44,
+        "id_pompa": "PMP-037",
+        "name": "P.A Jagir Kalimir",
+        "nama_stasiun_pompa": "P.A Jagir Kalimir",
+        "rayon_pematusan": "Rayon Jambangan",
+        "longitude": 112.749616,
+        "latitude": -7.303453,
+        "utm_x": 693148.57,
+        "utm_y": 9192330.3,
+        "status_fasilitas": "Operasional Aktif"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.760811,
+          -7.307617
+        ]
+      },
+      "properties": {
+        "no": 45,
+        "id_pompa": "PMP-038",
+        "name": "P.A JEMURSARI PRAPEN",
+        "nama_stasiun_pompa": "P.A JEMURSARI PRAPEN",
+        "rayon_pematusan": "Rayon Jambangan",
+        "longitude": 112.760811,
+        "latitude": -7.307617,
+        "utm_x": 694382.99,
+        "utm_y": 9191864.96,
+        "status_fasilitas": "Operasional Aktif"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.737042,
+          -7.300051
+        ]
+      },
+      "properties": {
+        "no": 46,
+        "id_pompa": "PMP-042",
+        "name": "P.A SAWUNGGALING",
+        "nama_stasiun_pompa": "P.A SAWUNGGALING",
+        "rayon_pematusan": "Rayon Jambangan",
+        "longitude": 112.737042,
+        "latitude": -7.300051,
+        "utm_x": 691761.47,
+        "utm_y": 9192711.87,
+        "status_fasilitas": "Operasional Aktif"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.716298,
+          -7.323821
+        ]
+      },
+      "properties": {
+        "no": 47,
+        "id_pompa": "PMP-049",
+        "name": "P.A Kebonsari",
+        "nama_stasiun_pompa": "P.A Kebonsari",
+        "rayon_pematusan": "Rayon Jambangan",
+        "longitude": 112.716298,
+        "latitude": -7.323821,
+        "utm_x": 689460.75,
+        "utm_y": 9190091.83,
+        "status_fasilitas": "Operasional Aktif"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.729521,
+          -7.347834
+        ]
+      },
+      "properties": {
+        "no": 48,
+        "id_pompa": "PMP-050",
+        "name": "P.A Korem",
+        "nama_stasiun_pompa": "P.A Korem",
+        "rayon_pematusan": "Rayon Jambangan",
+        "longitude": 112.729521,
+        "latitude": -7.347834,
+        "utm_x": 690910.68,
+        "utm_y": 9187430.41,
+        "status_fasilitas": "Operasional Aktif"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.743613,
+          -7.329303
+        ]
+      },
+      "properties": {
+        "no": 49,
+        "id_pompa": "PMP-051",
+        "name": "P.A Jemur Andayani",
+        "nama_stasiun_pompa": "P.A Jemur Andayani",
+        "rayon_pematusan": "Rayon Jambangan",
+        "longitude": 112.743613,
+        "latitude": -7.329303,
+        "utm_x": 692474.65,
+        "utm_y": 9189473.91,
+        "status_fasilitas": "Operasional Aktif"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.747361,
+          -7.329599
+        ]
+      },
+      "properties": {
+        "no": 50,
+        "id_pompa": "PMP-052",
+        "name": "P.A Kutisari",
+        "nama_stasiun_pompa": "P.A Kutisari",
+        "rayon_pematusan": "Rayon Jambangan",
+        "longitude": 112.747361,
+        "latitude": -7.329599,
+        "utm_x": 692888.35,
+        "utm_y": 9189439.55,
+        "status_fasilitas": "Operasional Aktif"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.718027,
+          -7.322453
+        ]
+      },
+      "properties": {
+        "no": 51,
+        "id_pompa": "PMP-072",
+        "name": "P.A AQUATIC",
+        "nama_stasiun_pompa": "P.A AQUATIC",
+        "rayon_pematusan": "Rayon Jambangan",
+        "longitude": 112.718027,
+        "latitude": -7.322453,
+        "utm_x": 689652.27,
+        "utm_y": 9190242.4,
+        "status_fasilitas": "Operasional Aktif"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.717583,
+          -7.313764
+        ]
+      },
+      "properties": {
+        "no": 52,
+        "id_pompa": "PMP-078",
+        "name": "Rumah Pompa Update #78 (Baru)",
+        "nama_stasiun_pompa": "Rumah Pompa Update #78 (Baru)",
+        "rayon_pematusan": "Rayon Jambangan",
+        "longitude": 112.717583,
+        "latitude": -7.313764,
+        "utm_x": 689606.91,
+        "utm_y": 9191203.51,
+        "status_fasilitas": "Pengembangan Baru"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.721054,
+          -7.323413
+        ]
+      },
+      "properties": {
+        "no": 53,
+        "id_pompa": "PMP-079",
+        "name": "Rumah Pompa Update #79 (Baru)",
+        "nama_stasiun_pompa": "Rumah Pompa Update #79 (Baru)",
+        "rayon_pematusan": "Rayon Jambangan",
+        "longitude": 112.721054,
+        "latitude": -7.323413,
+        "utm_x": 689986.13,
+        "utm_y": 9190134.94,
+        "status_fasilitas": "Pengembangan Baru"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.748435,
+          -7.317364
+        ]
+      },
+      "properties": {
+        "no": 54,
+        "id_pompa": "PMP-081",
+        "name": "Rumah Pompa Update #81 (Baru)",
+        "nama_stasiun_pompa": "Rumah Pompa Update #81 (Baru)",
+        "rayon_pematusan": "Rayon Jambangan",
+        "longitude": 112.748435,
+        "latitude": -7.317364,
+        "utm_x": 693012.23,
+        "utm_y": 9190792.21,
+        "status_fasilitas": "Pengembangan Baru"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.730913,
+          -7.329832
+        ]
+      },
+      "properties": {
+        "no": 55,
+        "id_pompa": "PMP-082",
+        "name": "Rumah Pompa Update #82 (Baru)",
+        "nama_stasiun_pompa": "Rumah Pompa Update #82 (Baru)",
+        "rayon_pematusan": "Rayon Jambangan",
+        "longitude": 112.730913,
+        "latitude": -7.329832,
+        "utm_x": 691072.08,
+        "utm_y": 9189420.76,
+        "status_fasilitas": "Pengembangan Baru"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.720108,
+          -7.343005
+        ]
+      },
+      "properties": {
+        "no": 56,
+        "id_pompa": "PMP-083",
+        "name": "Rumah Pompa Update #83 (Baru)",
+        "nama_stasiun_pompa": "Rumah Pompa Update #83 (Baru)",
+        "rayon_pematusan": "Rayon Jambangan",
+        "longitude": 112.720108,
+        "latitude": -7.343005,
+        "utm_x": 689873.37,
+        "utm_y": 9187968.44,
+        "status_fasilitas": "Pengembangan Baru"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.800527,
+          -7.307451
+        ]
+      },
+      "properties": {
+        "no": 57,
+        "id_pompa": "PMP-025",
+        "name": "P.A Semolowaru I",
+        "nama_stasiun_pompa": "P.A Semolowaru I",
+        "rayon_pematusan": "Rayon Rungkut",
+        "longitude": 112.800527,
+        "latitude": -7.307451,
+        "utm_x": 698768.97,
+        "utm_y": 9191865.91,
+        "status_fasilitas": "Operasional Aktif"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.790781,
+          -7.307007
+        ]
+      },
+      "properties": {
+        "no": 58,
+        "id_pompa": "PMP-026",
+        "name": "P.A Medokan Semampir",
+        "nama_stasiun_pompa": "P.A Medokan Semampir",
+        "rayon_pematusan": "Rayon Rungkut",
+        "longitude": 112.790781,
+        "latitude": -7.307007,
+        "utm_x": 697692.85,
+        "utm_y": 9191919.34,
+        "status_fasilitas": "Operasional Aktif"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.823274,
+          -7.311701
+        ]
+      },
+      "properties": {
+        "no": 59,
+        "id_pompa": "PMP-027",
+        "name": "P.A Medokan Ayu Hilir",
+        "nama_stasiun_pompa": "P.A Medokan Ayu Hilir",
+        "rayon_pematusan": "Rayon Rungkut",
+        "longitude": 112.823274,
+        "latitude": -7.311701,
+        "utm_x": 701278.98,
+        "utm_y": 9191385.74,
+        "status_fasilitas": "Operasional Aktif"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.823274,
+          -7.307486
+        ]
+      },
+      "properties": {
+        "no": 60,
+        "id_pompa": "PMP-028",
+        "name": "P.A Boezem Wonorejo",
+        "nama_stasiun_pompa": "P.A Boezem Wonorejo",
+        "rayon_pematusan": "Rayon Rungkut",
+        "longitude": 112.823274,
+        "latitude": -7.307486,
+        "utm_x": 701280.87,
+        "utm_y": 9191851.95,
+        "status_fasilitas": "Operasional Aktif"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.76962,
+          -7.310412
+        ]
+      },
+      "properties": {
+        "no": 61,
+        "id_pompa": "PMP-029",
+        "name": "P.A Kali Rungkut",
+        "nama_stasiun_pompa": "P.A Kali Rungkut",
+        "rayon_pematusan": "Rayon Rungkut",
+        "longitude": 112.76962,
+        "latitude": -7.310412,
+        "utm_x": 695354.64,
+        "utm_y": 9191551.94,
+        "status_fasilitas": "Operasional Aktif"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.772181,
+          -7.310184
+        ]
+      },
+      "properties": {
+        "no": 62,
+        "id_pompa": "PMP-030",
+        "name": "P.A Wonorejo",
+        "nama_stasiun_pompa": "P.A Wonorejo",
+        "rayon_pematusan": "Rayon Rungkut",
+        "longitude": 112.772181,
+        "latitude": -7.310184,
+        "utm_x": 695637.52,
+        "utm_y": 9191576.11,
+        "status_fasilitas": "Operasional Aktif"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.791956,
+          -7.332547
+        ]
+      },
+      "properties": {
+        "no": 63,
+        "id_pompa": "PMP-053",
+        "name": "P.A UPN",
+        "nama_stasiun_pompa": "P.A UPN",
+        "rayon_pematusan": "Rayon Rungkut",
+        "longitude": 112.791956,
+        "latitude": -7.332547,
+        "utm_x": 697811.39,
+        "utm_y": 9189094.04,
+        "status_fasilitas": "Operasional Aktif"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.792152,
+          -7.325374
+        ]
+      },
+      "properties": {
+        "no": 64,
+        "id_pompa": "PMP-054",
+        "name": "P.A Pandugo",
+        "nama_stasiun_pompa": "P.A Pandugo",
+        "rayon_pematusan": "Rayon Rungkut",
+        "longitude": 112.792152,
+        "latitude": -7.325374,
+        "utm_x": 697836.19,
+        "utm_y": 9189887.29,
+        "status_fasilitas": "Operasional Aktif"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.805887,
+          -7.331495
+        ]
+      },
+      "properties": {
+        "no": 65,
+        "id_pompa": "PMP-055",
+        "name": "P.A Kebon Agung",
+        "nama_stasiun_pompa": "P.A Kebon Agung",
+        "rayon_pematusan": "Rayon Rungkut",
+        "longitude": 112.805887,
+        "latitude": -7.331495,
+        "utm_x": 699350.18,
+        "utm_y": 9189204.29,
+        "status_fasilitas": "Operasional Aktif"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.797371,
+          -7.344885
+        ]
+      },
+      "properties": {
+        "no": 66,
+        "id_pompa": "PMP-056",
+        "name": "P.A BP2IP",
+        "nama_stasiun_pompa": "P.A BP2IP",
+        "rayon_pematusan": "Rayon Rungkut",
+        "longitude": 112.797371,
+        "latitude": -7.344885,
+        "utm_x": 698403.88,
+        "utm_y": 9187727.09,
+        "status_fasilitas": "Operasional Aktif"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.784498,
+          -7.313113
+        ]
+      },
+      "properties": {
+        "no": 67,
+        "id_pompa": "PMP-057",
+        "name": "P.A Kedungasem",
+        "nama_stasiun_pompa": "P.A Kedungasem",
+        "rayon_pematusan": "Rayon Rungkut",
+        "longitude": 112.784498,
+        "latitude": -7.313113,
+        "utm_x": 696996.31,
+        "utm_y": 9191246.79,
+        "status_fasilitas": "Operasional Aktif"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.796312,
+          -7.309479
+        ]
+      },
+      "properties": {
+        "no": 68,
+        "id_pompa": "PMP-058",
+        "name": "P.A Wonorejo II",
+        "nama_stasiun_pompa": "P.A Wonorejo II",
+        "rayon_pematusan": "Rayon Rungkut",
+        "longitude": 112.796312,
+        "latitude": -7.309479,
+        "utm_x": 698302.51,
+        "utm_y": 9191643.44,
+        "status_fasilitas": "Operasional Aktif"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.790535,
+          -7.302894
+        ]
+      },
+      "properties": {
+        "no": 69,
+        "id_pompa": "PMP-059",
+        "name": "P.A Semolowaru II",
+        "nama_stasiun_pompa": "P.A Semolowaru II",
+        "rayon_pematusan": "Rayon Rungkut",
+        "longitude": 112.790535,
+        "latitude": -7.302894,
+        "utm_x": 697667.55,
+        "utm_y": 9192374.33,
+        "status_fasilitas": "Operasional Aktif"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.789605,
+          -7.290707
+        ]
+      },
+      "properties": {
+        "no": 70,
+        "id_pompa": "PMP-060",
+        "name": "P.A Araya Onkologi",
+        "nama_stasiun_pompa": "P.A Araya Onkologi",
+        "rayon_pematusan": "Rayon Rungkut",
+        "longitude": 112.789605,
+        "latitude": -7.290707,
+        "utm_x": 697570.12,
+        "utm_y": 9193722.64,
+        "status_fasilitas": "Operasional Aktif"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.786413,
+          -7.343136
+        ]
+      },
+      "properties": {
+        "no": 71,
+        "id_pompa": "PMP-074",
+        "name": "P.A MERR",
+        "nama_stasiun_pompa": "P.A MERR",
+        "rayon_pematusan": "Rayon Rungkut",
+        "longitude": 112.786413,
+        "latitude": -7.343136,
+        "utm_x": 697194.6,
+        "utm_y": 9187925.37,
+        "status_fasilitas": "Operasional Aktif"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.777514,
+          -7.340099
+        ]
+      },
+      "properties": {
+        "no": 72,
+        "id_pompa": "PMP-077",
+        "name": "Rumah Pompa Update #77 (Baru)",
+        "nama_stasiun_pompa": "Rumah Pompa Update #77 (Baru)",
+        "rayon_pematusan": "Rayon Rungkut",
+        "longitude": 112.777514,
+        "latitude": -7.340099,
+        "utm_x": 696213.32,
+        "utm_y": 9188265.13,
+        "status_fasilitas": "Pengembangan Baru"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.677556,
+          -7.229164
+        ]
+      },
+      "properties": {
+        "no": 73,
+        "id_pompa": "PMP-012",
+        "name": "P.A Balong 2",
+        "nama_stasiun_pompa": "P.A Balong 2",
+        "rayon_pematusan": "Rayon Tandes",
+        "longitude": 112.677556,
+        "latitude": -7.229164,
+        "utm_x": 685221.69,
+        "utm_y": 9200576.42,
+        "status_fasilitas": "Operasional Aktif"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.70883,
+          -7.223307
+        ]
+      },
+      "properties": {
+        "no": 74,
+        "id_pompa": "PMP-013",
+        "name": "P.A Bozem Moro Krembangan I",
+        "nama_stasiun_pompa": "P.A Bozem Moro Krembangan I",
+        "rayon_pematusan": "Rayon Tandes",
+        "longitude": 112.70883,
+        "latitude": -7.223307,
+        "utm_x": 688678.12,
+        "utm_y": 9201211.36,
+        "status_fasilitas": "Operasional Aktif"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.70883,
+          -7.223307
+        ]
+      },
+      "properties": {
+        "no": 75,
+        "id_pompa": "PMP-014",
+        "name": "P.A Bozem Moro Krembangan I",
+        "nama_stasiun_pompa": "P.A Bozem Moro Krembangan I",
+        "rayon_pematusan": "Rayon Tandes",
+        "longitude": 112.70883,
+        "latitude": -7.223307,
+        "utm_x": 688678.12,
+        "utm_y": 9201211.36,
+        "status_fasilitas": "Operasional Aktif"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.680854,
+          -7.256474
+        ]
+      },
+      "properties": {
+        "no": 76,
+        "id_pompa": "PMP-046",
+        "name": "P.A Balong 1",
+        "nama_stasiun_pompa": "P.A Balong 1",
+        "rayon_pematusan": "Rayon Tandes",
+        "longitude": 112.680854,
+        "latitude": -7.256474,
+        "utm_x": 685574.74,
+        "utm_y": 9197554.77,
+        "status_fasilitas": "Operasional Aktif"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.705371,
+          -7.287478
+        ]
+      },
+      "properties": {
+        "no": 77,
+        "id_pompa": "PMP-073",
+        "name": "PA. Underpass",
+        "nama_stasiun_pompa": "PA. Underpass",
+        "rayon_pematusan": "Rayon Tandes",
+        "longitude": 112.705371,
+        "latitude": -7.287478,
+        "utm_x": 688269.42,
+        "utm_y": 9194115.8,
+        "status_fasilitas": "Operasional Aktif"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.657552,
+          -7.259328
+        ]
+      },
+      "properties": {
+        "no": 78,
+        "id_pompa": "PMP-080",
+        "name": "Rumah Pompa Update #80 (Baru)",
+        "nama_stasiun_pompa": "Rumah Pompa Update #80 (Baru)",
+        "rayon_pematusan": "Rayon Tandes",
+        "longitude": 112.657552,
+        "latitude": -7.259328,
+        "utm_x": 683000.29,
+        "utm_y": 9197248.64,
+        "status_fasilitas": "Pengembangan Baru"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.705303,
+          -7.322208
+        ]
+      },
+      "properties": {
+        "no": 79,
+        "id_pompa": "PMP-032",
+        "name": "P.A Kedurus",
+        "nama_stasiun_pompa": "P.A Kedurus",
+        "rayon_pematusan": "Rayon Wiyung",
+        "longitude": 112.705303,
+        "latitude": -7.322208,
+        "utm_x": 688247.43,
+        "utm_y": 9190274.79,
+        "status_fasilitas": "Operasional Aktif"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.71961,
+          -7.306644
+        ]
+      },
+      "properties": {
+        "no": 80,
+        "id_pompa": "PMP-033",
+        "name": "P.A Gunung Sari II",
+        "nama_stasiun_pompa": "P.A Gunung Sari II",
+        "rayon_pematusan": "Rayon Wiyung",
+        "longitude": 112.71961,
+        "latitude": -7.306644,
+        "utm_x": 689833.75,
+        "utm_y": 9191990.13,
+        "status_fasilitas": "Operasional Aktif"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.729054,
+          -7.300761
+        ]
+      },
+      "properties": {
+        "no": 81,
+        "id_pompa": "PMP-035",
+        "name": "P.A Gunung Sari I",
+        "nama_stasiun_pompa": "P.A Gunung Sari I",
+        "rayon_pematusan": "Rayon Wiyung",
+        "longitude": 112.729054,
+        "latitude": -7.300761,
+        "utm_x": 690879.17,
+        "utm_y": 9192636.79,
+        "status_fasilitas": "Operasional Aktif"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.702128,
+          -7.31354
+        ]
+      },
+      "properties": {
+        "no": 82,
+        "id_pompa": "PMP-048",
+        "name": "P.A WIYUNG",
+        "nama_stasiun_pompa": "P.A WIYUNG",
+        "rayon_pematusan": "Rayon Wiyung",
+        "longitude": 112.702128,
+        "latitude": -7.31354,
+        "utm_x": 687900.37,
+        "utm_y": 9191234.73,
+        "status_fasilitas": "Operasional Aktif"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.704553,
+          -7.33431
+        ]
+      },
+      "properties": {
+        "no": 83,
+        "id_pompa": "PMP-067",
+        "name": "P.A KEBRAON",
+        "nama_stasiun_pompa": "P.A KEBRAON",
+        "rayon_pematusan": "Rayon Wiyung",
+        "longitude": 112.704553,
+        "latitude": -7.33431,
+        "utm_x": 688159.48,
+        "utm_y": 9188936.65,
+        "status_fasilitas": "Operasional Aktif"
+      }
+    }
+  ]
+}

@@ -1,0 +1,9 @@
+id_rayon,nama_rayon,jumlah_titik,kdist_median_m,kdist_p90_m,kdist_p95_m,kdist_max_m,knee_index,knee_percentile,eps_kneedle_m,eps_digunakan_m,sumber_eps,jumlah_klaster_dbscan,klaster_terbesar_titik,jumlah_core,persen_core,jumlah_border,persen_border,jumlah_non_noise,persen_non_noise,jumlah_noise,persen_noise,status_diagnostik
+RYN-01,Rayon Benowo,1175,42.09,92.61,121.41,1142.25,1136.0,96.76,149.34,149.34,Kneedle (S=1.0),14,661,1136,96.68,11,0.94,1147,97.62,28,2.38,Wajar
+RYN-02,Rayon Tandes,2637,43.62,90.17,123.07,1300.71,2602.0,98.71,229.85,229.85,Kneedle (S=1.0),12,1948,2603,98.71,12,0.46,2615,99.17,22,0.83,Wajar
+RYN-03,Rayon Wiyung,1123,56.67,113.06,136.44,1627.7,1098.0,97.86,173.84,173.84,Kneedle (S=1.0),7,734,1099,97.86,8,0.71,1107,98.58,16,1.42,Wajar
+RYN-04,Rayon Jambangan,2556,58.97,100.83,117.12,1214.03,2526.0,98.86,149.68,149.68,Kneedle (S=1.0),11,1693,2527,98.87,17,0.67,2544,99.53,12,0.47,PERLU CEK: Noise sangat rendah (0.47% < 0.5%)
+RYN-05,Rayon Rungkut,2120,56.34,104.05,120.28,1839.47,2094.0,98.82,158.31,158.31,Kneedle (S=1.0),15,881,2094,98.77,13,0.61,2107,99.39,13,0.61,Wajar
+RYN-06,Rayon Genteng,3718,52.35,100.28,123.72,351.06,3641.0,97.96,144.28,144.28,Kneedle (S=1.0),10,3628,3642,97.96,49,1.32,3691,99.27,27,0.73,Wajar
+RYN-07,Rayon Gubeng,7943,46.41,92.04,110.02,508.26,7827.0,98.55,147.65,147.65,Kneedle (S=1.0),19,7497,7828,98.55,69,0.87,7897,99.42,46,0.58,Wajar
+TOTAL,Seluruh Kota Surabaya (7 Rayon),21272,,,,,,,,,Adaptif per Rayon,88,7497,20929,98.39,179,0.84,21108,99.23,164,0.77,Ringkasan Total
